@@ -1,7 +1,7 @@
  How to Run
  
 Clone the repo:
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/emirozd/Currency-Rate.git
 
 Install dependencies:
 npm install
